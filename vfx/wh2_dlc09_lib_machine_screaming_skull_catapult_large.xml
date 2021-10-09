@@ -596,7 +596,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.396078,0.152941,0.417647,1.0)" max="float4(0.458824,0.215686,0.584314,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.596078,0.152941,0.417647,1.0)" max="float4(0.658824,0.215686,0.584314,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.20" max="1.00"/>
 			</modifier>
@@ -643,7 +643,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(0.0,0.0,0.0,1.0)" max="float4(0.0,0.0,0.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.137255,0.137255,0.137255,1.0)" max="float4(0.0,0.0,0.0,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.337255,0.137255,0.337255,1.0)" max="float4(0.0,0.0,0.0,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(0.0,0.0,0.0,1.0)" max="float4(0.0,0.0,0.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
@@ -690,7 +690,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.427451,0.431373,0.62549,1.0)" max="float4(0.519608,0.447059,0.752941,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.627451,0.331373,0.62549,1.0)" max="float4(0.719608,0.547059,0.852941,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
@@ -720,7 +720,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.494,0.361,0.876,1.0)" max="float4(0.61,0.855,1.0,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.994,0.361,0.876,1.0)" max="float4(1.0,0.755,1.0,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
@@ -771,7 +771,7 @@
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="mid_colour" type="colour" min="float4(0.694118,0.137255,0.780392,1.0)" max="float4(0.809804,0.254902,1.0,1.0)"/>
-				<ranged_property name="end_colour" type="colour" min="float4(2.0,2.0,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
+				<ranged_property name="end_colour" type="colour" min="float4(2.0,1.5,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
 			<modifier fragment="vs_cell_texture">
@@ -817,7 +817,7 @@
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="mid_colour" type="colour" min="float4(0.494,0.137,0.51,1.0)" max="float4(0.809804,0.554902,0.9,1.0)"/>
-				<ranged_property name="end_colour" type="colour" min="float4(2.0,2.0,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
+				<ranged_property name="end_colour" type="colour" min="float4(2.0,1.5,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
 			<modifier fragment="vs_cell_texture">
@@ -858,7 +858,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.690196,0.878431,1.0,1.0)" max="float4(0.643137,0.917647,1.0,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.950196,0.578431,1.0,1.0)" max="float4(1.0,0.817647,1.0,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
@@ -878,7 +878,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.294,0.337,0.58,1.0)" max="float4(0.509804,0.854902,1.0,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.694,0.337,0.58,1.0)" max="float4(1.0,0.654902,1.0,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(2.0,2.0,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
@@ -962,7 +962,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.594,0.161,0.576,1.0)" max="float4(1.0,0.255,1.0,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.624,0.161,0.576,1.0)" max="float4(1.0,0.255,1.0,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.20" max="1.00"/>
 			</modifier>
@@ -1013,7 +1013,7 @@
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="mid_colour" type="colour" min="float4(0.594,0.237,0.58,1.0)" max="float4(1.0,0.654902,1.0,1.0)"/>
-				<ranged_property name="end_colour" type="colour" min="float4(2.0,2.0,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
+				<ranged_property name="end_colour" type="colour" min="float4(2.0,1.5,2.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
 			<modifier fragment="vs_cell_texture">
@@ -1054,7 +1054,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(1.0,0.878431,1.0,1.0)" max="float4(0.643137,0.917647,1.0,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(1.0,0.578431,1.0,1.0)" max="float4(1.0,0.717647,1.0,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
@@ -1204,7 +1204,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.860784,0.623529,0.870588,1.0)" max="float4(0.78,0.565,0.729,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.860784,0.423529,0.870588,1.0)" max="float4(0.980,0.565,0.929,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
