@@ -1,0 +1,3 @@
+key	display_model	launch_fx	trail_fx	stationary_fx	impact	airborne_anim	landing_anim	tip_offset	trail_spin	launch_camera_shake	impact_bounce	impact_penetrate	impact_blood	impact_bounce_blood	impact_penetrate_blood
+#projectile_displays_tables;10;db/projectile_displays_tables/im_mortal__screaming_skull_catapult															
+im_mortal__tmb_skull_projectile	projectiles\im_mortal__tmb_screaming_skull_catapult_skull_large.wsmodel		im_mortal__lib_machine_screaming_skull_catapult_large_trail		im_mortal__screaming_skull_impact_large			0.0	false		wh_main_impact_very_large	wh_main_impact_very_large			

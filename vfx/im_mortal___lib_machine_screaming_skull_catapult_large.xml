@@ -690,7 +690,7 @@
 			</modifier>
 			<modifier fragment="vs_colour">
 				<ranged_property name="start_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
-				<ranged_property name="mid_colour" type="colour" min="float4(0.627451,0.331373,0.62549,1.0)" max="float4(0.719608,0.547059,0.852941,1.0)"/>
+				<ranged_property name="mid_colour" type="colour" min="float4(0.627451,0.331373,0.82549,1.0)" max="float4(0.719608,0.547059,0.982941,1.0)"/>
 				<ranged_property name="end_colour" type="colour" min="float4(1.0,1.0,1.0,1.0)" max="float4(1.0,1.0,1.0,1.0)"/>
 				<ranged_property name="lerp_time" type="float" min="0.00" max="1.00"/>
 			</modifier>
